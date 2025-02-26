@@ -16,6 +16,10 @@ This project focuses on developing a deep learning model to classify images from
 
 # Skills Demonstrated:
 ✅ Deep Learning: Implemented and trained neural networks using PyTorch.
+
 ✅ Data Engineering: Created a custom dataset loader, managed CSV-based labels, and applied transformations.
+
 ✅ Model Optimization: Experimented with network architectures, hyperparameters, and training strategies.
+
 ✅ End-to-End ML Pipeline: Built an entire workflow from data loading to model evaluation.
+
